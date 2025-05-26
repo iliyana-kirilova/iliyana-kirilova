@@ -1,7 +1,6 @@
-###
-
 <p align="left">⚡ "I Thrive Under Pressure" ⚡<br>This mindset defines me—whether underwater, in coding challenges, or in life, I excel when the stakes are high.</p>
 
+###
 
 <p align="left">👋 Hi there, I'm Iliyana Kirilova!<br>Welcome to my GitHub profile! I’m a newbie programmer, passionate about coding, and a Navy Diver with a background in Marine Engineering. I graduated from the Naval Academy Nikola Vaptsarov in Varna, Bulgaria, in 2018, where I earned a Bachelor’s degree in Marine Engineering. 🌊🚢</p>
 
