@@ -1,3 +1,8 @@
+###
+
+<p align="left">⚡ "I Thrive Under Pressure" ⚡<br>This mindset defines me—whether underwater, in coding challenges, or in life, I excel when the stakes are high.</p>
+
+
 <p align="left">👋 Hi there, I'm Iliyana Kirilova!<br>Welcome to my GitHub profile! I’m a newbie programmer, passionate about coding, and a Navy Diver with a background in Marine Engineering. I graduated from the Naval Academy Nikola Vaptsarov in Varna, Bulgaria, in 2018, where I earned a Bachelor’s degree in Marine Engineering. 🌊🚢</p>
 
 ###
@@ -29,10 +34,6 @@
 ###
 
 <p align="left">🤿 Navy Diver & Core Strengths<br>As a certified CMAS Diver, my experience in the Navy has honed my discipline, teamwork, and adaptability—all crucial for both maritime and software environments. My love for mathematics has developed my algorithmic thinking, allowing me to approach problems from multiple angles and choose the best solution.<br><br>🚀 My Core Values<br>Resilience – I tackle challenges head-on. 💪<br>Curiosity – Always eager to learn and explore. 🔍<br>Determination – No setbacks can stop me. 🎯<br>Passion – The ocean, technology, and innovation drive me. 🌊<br>Algorithmic Thinking – I analyze problems deeply to find optimal solutions. 🔢<br>Precision & Teamwork – My experience as a diver and engineer has shaped me into a detail-oriented, team-driven professional. ⚓<br>Out-of-the-Box Thinking – I approach challenges creatively and seek innovative solutions. 💡<br>Adaptability & Fearlessness – I embrace new opportunities, step out of my comfort zone, and welcome change. 🔄</p>
-
-###
-
-<p align="left">⚡ "I Thrive Under Pressure" ⚡<br>This mindset defines me—whether underwater, in coding challenges, or in life, I excel when the stakes are high.</p>
 
 ### 📊 GitHub Stats
 
