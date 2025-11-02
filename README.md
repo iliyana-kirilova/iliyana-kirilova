@@ -22,6 +22,10 @@
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="width: 30px; height: 30px;" alt="arduino logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" style="width: 30px; height: 30px;" alt="intellij logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" style="width: 30px; height: 30px;" alt="pycharm logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="width: 30px; height: 30px;" alt="html logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="width: 30px; height: 30px;" alt="css logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="width: 30px; height: 30px;" alt="js logo" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" style="width: 30px; height: 30px;" alt="js logo" />
 </div>
 
 
