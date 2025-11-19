@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🐾 My Journey:<br>In June 2024, my life took an unexpected turn when I was diagnosed with cancer after being found with a tumor. After undergoing  2 surgeries and a couple of chemotherapies, I began my recovery journey—and with it, I discovered a new passion: coding. 💻<br>What started as a way to keep my mind active during recovery turned into a full-blown love for programming.</p>
+<p align="left">🐾 My Journey:<br>In June 2024, my life took an unexpected turn when I was diagnosed with cancer after being found with a tumor. After undergoing 3 surgeries and a couple of chemotherapies, I began my recovery journey—and with it, I discovered a new passion: coding. 💻<br>What started as a way to keep my mind active during recovery turned into a full-blown love for programming.</p>
 
 ###
 
